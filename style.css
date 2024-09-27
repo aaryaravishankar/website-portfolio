@@ -11,8 +11,8 @@
 }
 
 :root {
-    --bg-color: #1b0d0d;
-    --second-bg-color: #1b0d0d;
+    --bg-color: #000000;
+    --second-bg-color: #000000;
     --text-color: rgb(34, 192, 255);
     --main-color: #2e9efaf5;
 
@@ -336,7 +336,7 @@ span{
 .project-box{
     background-color: var(--main-color);
     color: black;
-    height: 350px;
+    height: 450px;
     border-radius: 3rem;
     cursor: pointer;
     transition: .3s ease-in-out;
